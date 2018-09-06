@@ -1,0 +1,11 @@
+
+# Artificial Dreamers by Jake O'Brien
+
+## Coming Soon
+
+## See it live: Sept 12th at 6-9pm
+- Harrisburg University, Philadelphia Campus ( [492 N. 16th St. just south of Spring Garden](https://www.google.com/maps/search/492+N.+16th+St.+just+south+of+Spring+Garden/@39.9538933,-75.1727771,16z/data=!3m1!4b1) ).
+
+### More Details
+- [Game Mechanics](http://www.phillygamemechanics.com/fringe/)
+- [Facebook Event](https://www.facebook.com/events/290148258241266/)
