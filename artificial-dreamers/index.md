@@ -1,7 +1,7 @@
 # Artificial Dreamers by Jake O'Brien
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vWFjrknq6Dk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Artificial Fringe](http://img.youtube.com/vi/vWFjrknq6Dk/0.jpg)](http://www.youtube.com/watch?v=vWFjrknq6Dk "Artificial Fringe")
 
 [Download](https://jakeo.itch.io/artificial-fringe)
 
