@@ -21,4 +21,4 @@ Also, you can let balls loose and they will chase and hit them around.
 
 They are all subject to physics. They are not ragdolls, but they have full collider rigs and IK solvers and are moved via physics.
 
-All of these layered systems combine to make a dance floor that is always doing something and never the same thing.
+All of these layered systems combine to make pretty believable dance floor sim.
